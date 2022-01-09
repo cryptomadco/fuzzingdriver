@@ -1,6 +1,4 @@
-/**
-* @kind problem
-*/
+
 import cpp
 
 from GlobalVariable gb
